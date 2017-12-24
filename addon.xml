@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="aparat.video.com"
+version="2.2.0"
+name="Aparat"
+provider-name="Ebrahim zare ebrahim.z.b@gmail.com">
+<requires>
+  <import addon="xbmc.metadata" version="2.1.0"/>
+  <import addon="xbmc.python" version="2.14.0"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">Aparat Kodi Video Plugin</summary>
+  <description lang="en">Aparat kodi video plugin</description>
+  <disclaimer lang="en">Aparat kodi video plugin</disclaimer>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+    <screenshot>resources\screenshot-01.jpg</screenshot>
+    <screenshot>resources\screenshot-02.jpg</screenshot>
+    <screenshot>resources\screenshot-03.jpg</screenshot>    
+  </assets>
+  <news>Updated with latest artwork metadata</news>
+</extension>
+</addon>

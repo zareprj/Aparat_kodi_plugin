@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<config>
+    <file>https://hw20.asset.aparat.com/aparat-video/ea88c7f17ef1a01e2ce25a4d3b7a1ce28587311-720p__68999.apt</file>
+    <autostart>false</autostart>
+    <volume>50</volume>
+    <image>https://www.aparat.com/public/public/user_data/video_thumb/1718/8587311_1_b.jpg?837</image>
+    <recommendations>https://www.aparat.com//video/recom/recom/videohash/MiOPU/watchtype/site/utime/88449eddf592d926958600bde4ff18b9/hutime/6c158fd511d4ad0a659fe5d4283e5c858c0b7c07</recommendations>
+    <abouttxt>Aparat.com</abouttxt>
+    <aboutlnk>https://www.aparat.com/</aboutlnk>
+    <allowfullscreen>true</allowfullscreen>
+    <logo>https://www.aparat.com/public//public/images/template/logo_trans.png</logo>
+    <fastforward>false</fastforward>
+    <viewtype>site</viewtype>
+    <title>سعدی در زمین تنیس و غیر از تو نداریم ، تمنای دگر</title>
+    <url>https://www.aparat.com/v/MiOPU</url>
+    <mobile>false</mobile>
+    <buffer>5</buffer>
+    <forceresize>true</forceresize>
+    <ga>UA-153829-13</ga>
+    <maintainaspectratio>true</maintainaspectratio>
+    <remote>false</remote>
+    <skip></skip>
+    <smooth>false</smooth>
+</config>
